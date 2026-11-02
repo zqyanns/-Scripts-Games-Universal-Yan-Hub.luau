@@ -6,4 +6,4 @@
    |_|\__,_|_| |_|   |_| |_|\__,_|_.__/ 
 ]]
 
-loadstring(game:HttpGet("https://vss.pandauth.com/kv/17e5097201a66119"))()
+loadstring(game:HttpGet("https://hiddenvaults.org/l/LoRy14KAr2On"))()
